@@ -1,74 +1,74 @@
 {
     "HOWARD_BEACH": {
-        "Monday": "6:00AM - 2:00PM",
-        "Tuesday": "6:00AM - 2:00PM",
-        "Wednesday": "6:00AM - 2:00PM",
-        "Thursday": "6:00AM - 2:00PM",
-        "Friday": "6:00AM - 2:00PM",
+        "Monday": "6:00 AM - 2:00 PM",
+        "Tuesday": "6:00 AM - 2:00 PM",
+        "Wednesday": "6:00 AM - 2:00 PM",
+        "Thursday": "6:00 AM - 2:00 PM",
+        "Friday": "6:00 AM - 2:00 PM",
         "Saturday": "CLOSED",
-        "Sunday": "6:00AM - 2:00PM"
+        "Sunday": "6:00 AM - 2:00 PM"
     },
     "JAMAICA": {
-        "Monday": "6:00AM - 2:00PM",
-        "Tuesday": "6:00AM - 2:00PM",
-        "Wednesday": "6:00AM - 2:00PM",
-        "Thursday": "6:00AM - 2:00PM",
-        "Friday": "6:00AM - 2:00PM",
+        "Monday": "6:00 AM - 2:00 PM",
+        "Tuesday": "6:00 AM - 2:00 PM",
+        "Wednesday": "6:00 AM - 2:00 PM",
+        "Thursday": "6:00 AM - 2:00 PM",
+        "Friday": "6:00 AM - 2:00 PM",
         "Saturday": "CLOSED",
-        "Sunday": "6:00AM - 2:00PM"
+        "Sunday": "6:00 AM - 2:00 PM"
     },
     "FLATBUSH": {
-        "Monday": "8:00AM - 2:00PM",
-        "Tuesday": "8:00AM - 2:00PM",
-        "Wednesday": "8:00AM - 2:00PM",
-        "Thursday": "8:00AM - 2:00PM",
+        "Monday": "8:00 AM - 2:00 PM",
+        "Tuesday": "8:00 AM - 2:00 PM",
+        "Wednesday": "8:00 AM - 2:00 PM",
+        "Thursday": "8:00 AM - 2:00 PM",
         "Friday": "CLOSED",
         "Saturday": "CLOSED",
-        "Sunday": "8:00AM - 2:00PM"
+        "Sunday": "8:00 AM - 2:00 PM"
     },
     "PARKCHESTER": {
         "Monday": "6:00 AM - 2:00 PM",
-        "Tuesday": "6:00AM - 2:00PM",
-        "Wednesday": "6:00AM - 2:00PM",
-        "Thursday": "6:00AM - 2:00PM",
-        "Friday": "6:00AM - 2:00PM",
+        "Tuesday": "6:00 AM - 2:00 PM",
+        "Wednesday": "6:00 AM - 2:00 PM",
+        "Thursday": "6:00 AM - 2:00 PM",
+        "Friday": "6:00 AM - 2:00 PM",
         "Saturday": "CLOSED",
-        "Sunday": "6:00AM - 2:00PM"
+        "Sunday": "6:00 AM - 2:00 PM"
     },
     "MELROSE": {
-        "Monday": "6:00AM - 7:30PM",
-        "Tuesday": "6:00AM - 7:30PM",
-        "Wednesday": "6:00AM - 7:30PM",
-        "Thursday": "6:00AM - 7:30PM",
-        "Friday": "6:00AM - 7:30PM",
+        "Monday": "6:00 AM - 7:30 PM",
+        "Tuesday": "6:00 AM - 7:30 PM",
+        "Wednesday": "6:00 AM - 7:30 PM",
+        "Thursday": "6:00 AM - 7:30 PM",
+        "Friday": "6:00 AM - 7:30 PM",
         "Saturday": "CLOSED",
-        "Sunday": "6:00AM - 7:30PM"
+        "Sunday": "6:00 AM - 7:30 PM"
     },
     "CLINTON_HILL": {
-        "Monday": "6:00AM - 7:30PM",
-        "Tuesday": "6:00AM - 7:30PM",
-        "Wednesday": "6:00AM - 7:30PM",
-        "Thursday": "6:00AM - 7:30PM",
-        "Friday": "6:00AM - 3:00PM",
+        "Monday": "6:00 AM - 7:30 PM",
+        "Tuesday": "6:00 AM - 7:30 PM",
+        "Wednesday": "6:00 AM - 7:30 PM",
+        "Thursday": "6:00 AM - 7:30 PM",
+        "Friday": "6:00 AM - 3:00 PM",
         "Saturday": "CLOSED",
-        "Sunday": "6:00AM - 7:30PM"
+        "Sunday": "6:00 AM - 7:30 PM"
     },
     "BROWNSVILLE": {
-        "Monday": "6:00AM - 2:00PM",
-        "Tuesday": "6:00AM - 2:00PM",
-        "Wednesday": "6:00AM - 2:00PM",
-        "Thursday": "6:00AM - 2:00PM",
-        "Friday": "6:00AM - 2:00PM",
+        "Monday": "6:00 AM - 2:00 PM",
+        "Tuesday": "6:00 AM - 2:00 PM",
+        "Wednesday": "6:00 AM - 2:00 PM",
+        "Thursday": "6:00 AM - 2:00 PM",
+        "Friday": "6:00 AM - 2:00 PM",
         "Saturday": "CLOSED",
-        "Sunday": "6:00AM - 2:00PM"
+        "Sunday": "6:00 AM - 2:00 PM"
     },
     "FT_PIERCE": {
-        "Monday": "6:00AM - 7:00PM",
-        "Tuesday": "6:00AM - 7:00PM",
-        "Wednesday": "6:00AM - 7:00PM",
-        "Thursday": "6:00AM - 7:00PM",
-        "Friday": "6:00AM - 6:00PM",
+        "Monday": "6:00 AM - 7:00 PM",
+        "Tuesday": "6:00 AM - 7:00 PM",
+        "Wednesday": "6:00 AM - 7:00 PM",
+        "Thursday": "6:00 AM - 7:00 PM",
+        "Friday": "6:00 AM - 6:00 PM",
         "Saturday": "CLOSED",
-        "Sunday": "6:00AM - 7:00PM"
+        "Sunday": "6:00 AM - 7:00 PM"
     }
 }
