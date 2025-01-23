@@ -72,21 +72,21 @@
         "Sunday": "6:00 AM - 7:00 PM"
     },
     "FORDHAM": {
-        "Monday": "6:00 AM - 12:00 PM",
-        "Tuesday": "6:00 AM - 12:00 PM",
-        "Wednesday": "CLOSED",
-        "Thursday": "6:00 AM - 12:00 PM",
-        "Friday": "6:00 AM - 12:00 PM",
-        "Saturday": "6:00 AM - 12:00 PM",
-        "Sunday": "6:00 AM - 12:00 PM"
+        "Monday": "CLOSED",
+        "Tuesday": "CLOSED",
+        "Wednesday": "6:00 AM - 12:00 PM"
+        "Thursday": "CLOSED",
+        "Friday": "CLOSED",
+        "Saturday": "CLOSED",
+        "Sunday": "CLOSED"
     },
     "EASTHARLEM": {
-        "Monday": "CLOSED",
-        "Tuesday": "6:00 AM - 12:00 PM",
-        "Wednesday": "6:00 AM - 12:00 PM",
-        "Thursday": "6:00 AM - 12:00 PM",
-        "Friday": "6:00 AM - 12:00 PM",
-        "Saturday": "6:00 AM - 12:00 PM",
-        "Sunday": "6:00 AM - 12:00 PM",
+        "Monday": "6:00 AM - 12:00 PM",
+        "Tuesday": "CLOSED",
+        "Wednesday": "CLOSED",
+        "Thursday": "CLOSED",
+        "Friday": "CLOSED",
+        "Saturday": "CLOSED",
+        "Sunday": "CLOSED"
     }
 }
