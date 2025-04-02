@@ -18,13 +18,13 @@
         "Sunday": "6:00 AM - 2:00 PM"
     },
     "FLATBUSH": {
-        "Monday": "6:00 AM - 2:00 PM",
-        "Tuesday": "6:00 AM - 2:00 PM",
-        "Wednesday": "6:00 AM - 2:00 PM",
-        "Thursday": "6:00 AM - 2:00 PM",
+        "Monday": "10:00 AM - 6:00 PM",
+        "Tuesday": "10:00 AM - 6:00 PM",
+        "Wednesday": "10:00 AM - 6:00 PM",
+        "Thursday": "10:00 AM - 6:00 PM",
         "Friday": "CLOSED",
         "Saturday": "CLOSED",
-        "Sunday": "8:00 AM - 2:00 PM"
+        "Sunday": "10:00 AM - 6:00 PM"
     },
     "PARKCHESTER": {
         "Monday": "6:00 AM - 2:00 PM",
