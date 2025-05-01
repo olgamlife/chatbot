@@ -6,7 +6,8 @@
         "Thursday": "6:00 AM - 2:00 PM",
         "Friday": "6:00 AM - 2:00 PM",
         "Saturday": "CLOSED",
-        "Sunday": "6:00 AM - 2:00 PM"
+        "Sunday": "6:00 AM - 2:00 PM",
+        "Address": "78-15 Linden Blvd, Queens, NY 11414"
     },
     "JAMAICA": {
         "Monday": "6:00 AM - 2:00 PM",
