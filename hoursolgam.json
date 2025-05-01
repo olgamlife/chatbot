@@ -1,5 +1,7 @@
 {
     "HOWARD_BEACH": {
+        "display_name": "HOWARD BEACH QUEENS",
+        "Address": "78-15 Linden Blvd, Queens, NY 11414",
         "Monday": "6:00 AM - 2:00 PM",
         "Tuesday": "6:00 AM - 2:00 PM",
         "Wednesday": "6:00 AM - 2:00 PM",
@@ -9,6 +11,8 @@
         "Sunday": "6:00 AM - 2:00 PM"
     },
     "JAMAICA": {
+        "display_name": "JAMAICA QUEENS",
+        "Address": "162-11 Jamaica Ave, Jamaica, NY 11432",
         "Monday": "6:00 AM - 2:00 PM",
         "Tuesday": "6:00 AM - 2:00 PM",
         "Wednesday": "6:00 AM - 2:00 PM",
@@ -18,6 +22,8 @@
         "Sunday": "6:00 AM - 2:00 PM"
     },
     "FLATBUSH": {
+        "display_name": "FLATBUSH BROOKLYN",
+        "Address": "1584 Flatbush Ave Brooklyn, NY 11210",
         "Monday": "10:00 AM - 6:00 PM",
         "Tuesday": "10:00 AM - 6:00 PM",
         "Wednesday": "10:00 AM - 6:00 PM",
@@ -27,6 +33,8 @@
         "Sunday": "10:00 AM - 6:00 PM"
     },
     "PARKCHESTER": {
+        "display_name": "PARKCHESTER BRONX",
+        "Address": "2028 White Plains Rd, Bronx, NY 10462",
         "Monday": "6:00 AM - 2:00 PM",
         "Tuesday": "6:00 AM - 2:00 PM",
         "Wednesday": "6:00 AM - 2:00 PM",
@@ -36,6 +44,8 @@
         "Sunday": "6:00 AM - 2:00 PM"
     },
     "MELROSE": {
+        "display_name": "MELROSE BRONX",
+        "Address": "2914 3rd Ave, Bronx, NY 10455",
         "Monday": "6:00 AM - 7:30 PM",
         "Tuesday": "6:00 AM - 7:30 PM",
         "Wednesday": "6:00 AM - 7:30 PM",
@@ -45,6 +55,8 @@
         "Sunday": "6:00 AM - 7:30 PM"
     },
     "CLINTON_HILL": {
+        "display_name": "CLINTON HILL BROOKLYN",
+        "Address": "1104 Fulton Street, Brooklyn, NY 11238",
         "Monday": "6:00 AM - 7:30 PM",
         "Tuesday": "6:00 AM - 7:30 PM",
         "Wednesday": "6:00 AM - 7:30 PM",
@@ -54,6 +66,8 @@
         "Sunday": "6:00 AM - 7:30 PM"
     },
     "BROWNSVILLE": {
+        "display_name": "BROWNSVILLE BROOKLYN",
+        "Address": "1539 Pitkin Ave, Brooklyn, NY 11212",
         "Monday": "6:00 AM - 2:00 PM",
         "Tuesday": "6:00 AM - 2:00 PM",
         "Wednesday": "6:00 AM - 2:00 PM",
@@ -63,6 +77,8 @@
         "Sunday": "6:00 AM - 2:00 PM"
     },
     "FT_PIERCE": {
+        "display_name": "FORT PIERCE FLORIDA",
+        "Address": "5216 Okeechobee Rd, Fort Pierce, FL 34947",
         "Monday": "6:00 AM - 7:00 PM",
         "Tuesday": "6:00 AM - 7:00 PM",
         "Wednesday": "6:00 AM - 7:00 PM",
@@ -72,6 +88,8 @@
         "Sunday": "6:00 AM - 7:00 PM"
     },
     "FORDHAM": {
+        "display_name": "FORDHAM BRONX (Limited Hours)",
+        "Address": "2510 Grand Concourse Bronx NY 10458",
         "Monday": "CLOSED",
         "Tuesday": "CLOSED",
         "Wednesday": "6:00 AM - 12:00 PM",
@@ -81,6 +99,8 @@
         "Sunday": "CLOSED"
     },
     "EASTHARLEM": {
+        "display_name": "EAST HARLEM (New location with limited hours)",
+        "Address": "127 E 125th St New York, NY 10035",
         "Monday": "6:00 AM - 12:00 PM",
         "Tuesday": "CLOSED",
         "Wednesday": "CLOSED",
