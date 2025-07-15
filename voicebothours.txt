@@ -1,64 +1,62 @@
 ## Location Information
 Current Olgam donation centers with addresses and hours:
 
-HOWARD BEACH QUEENS  
-Address: 78-15 Linden Blvd, Queens, NY 11414  
-Hours: Monday through Friday and Sunday: six AM to two PM  
-Saturday: CLOSED  
-Phone: (646) 453-4889  
+HOWARD BEACH QUEENS
+Address: 78-15 Linden Blvd, Queens, NY 11414
+Hours: Monday through Friday and Sunday: six AM to two PM
+Saturday: CLOSED
+Phone: (646) 453-4889
 
-JAMAICA QUEENS  
-Address: 162-11 Jamaica Ave, Jamaica, NY 11432  
-Hours: Monday through Friday and Sunday: six AM to two PM  
-Saturday: CLOSED  
-Phone: (646) 453-4868  
+JAMAICA QUEENS
+Address: 162-11 Jamaica Ave, Jamaica, NY 11432
+Hours: Monday through Friday and Sunday: six AM to two PM
+Saturday: CLOSED
+Phone: (646) 453-4868
 
-FLATBUSH BROOKLYN  
-Address: 1584 Flatbush Ave, Brooklyn, NY 11210  
-Hours: Monday through Thursday and Sunday: ten AM to six PM  
-Friday and Saturday: CLOSED  
-Phone: (646) 453-4709  
+FLATBUSH BROOKLYN
+Address: 1584 Flatbush Ave, Brooklyn, NY 11210
+Hours: Monday through Thursday and Sunday: ten AM to six PM
+Friday and Saturday: CLOSED
+Phone: (646) 453-4709
 
-PARKCHESTER BRONX  
-Address: 2028 White Plains Rd, Bronx, NY 10462  
-Hours: Monday through Friday and Sunday: six AM to two PM  
-Saturday: CLOSED  
-Phone: (646) 453-4771  
+PARKCHESTER BRONX
+Address: 2028 White Plains Rd, Bronx, NY 10462
+Hours: Monday through Friday and Sunday: six AM to two PM
+Saturday: CLOSED
+Phone: (646) 453-4771
 
-MELROSE BRONX  
-Address: 2914 3rd Ave, Bronx, NY 10455  
-Hours: Monday through Friday and Sunday: six AM to seven thirty PM  
-Saturday: CLOSED  
-Phone: (646) 453-4934  
+MELROSE BRONX
+Address: 2914 3rd Ave, Bronx, NY 10455
+Hours: Monday through Friday and Sunday: six AM to seven thirty PM
+Saturday: CLOSED
+Phone: (646) 453-4934
 
-CLINTON HILL BROOKLYN  
-Address: 1104 Fulton Street, Brooklyn, NY 11238  
-Hours: Monday through Thursday and Sunday: six AM to seven thirty PM  
-Friday: six AM to three PM  
-Saturday: CLOSED  
-Phone: (646) 453-4935  
+CLINTON HILL BROOKLYN
+Address: 1104 Fulton Street, Brooklyn, NY 11238
+Hours: Monday through Thursday and Sunday: six AM to seven thirty PM
+Friday: six AM to three PM
+Saturday: CLOSED
+Phone: (646) 453-4935
 
-BROWNSVILLE BROOKLYN  
-Address: 1539 Pitkin Ave, Brooklyn, NY 11212  
-Hours: Monday through Friday and Sunday: six AM to two PM  
-Saturday: CLOSED  
-Phone: (646) 453-4760  
+BROWNSVILLE BROOKLYN
+Address: 1539 Pitkin Ave, Brooklyn, NY 11212
+Hours: Monday through Friday and Sunday: six AM to two PM
+Saturday: CLOSED
+Phone: (646) 453-4760
 
-FORT PIERCE FLORIDA  
-Address: 5216 Okeechobee Rd, Fort Pierce, FL 34947  
-Hours: Monday through Thursday and Sunday: six AM to seven PM  
-Friday: six AM to six PM  
-Saturday: CLOSED  
-Phone: (772) 252-1927  
+FORT PIERCE FLORIDA
+Address: 5216 Okeechobee Rd, Fort Pierce, FL 34947
+Hours: Monday through Thursday and Sunday: six AM to seven PM
+Friday: six AM to six PM
+Saturday: CLOSED
+Phone: (772) 252-1927
 
-FORDHAM BRONX (Limited Hours)  
-Address: 2510 Grand Concourse, Bronx, NY 10458  
-Hours: Closed
-Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, and Sunday: CLOSED  
-Phone: (718) 215-8687  
+FORDHAM BRONX (Limited Hours)
+Address: 2510 Grand Concourse, Bronx, NY 10458
+Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, and Sunday: CLOSED
+Phone: (718) 215-8687
 
-EAST HARLEM (New location with limited hours)  
-Address: 127 E 125th St, New York, NY 10035  
-Hours: Closed
-Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, and Sunday: CLOSED  
-Phone: (718) 215-8659  
+EAST HARLEM (New location with limited hours)
+Address: 127 E 125th St, New York, NY 10035
+Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, and Sunday: CLOSED
+Phone: (718) 215-8659
