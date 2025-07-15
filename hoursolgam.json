@@ -9,7 +9,7 @@
         "Friday": "6:00 AM - 2:00 PM",
         "Saturday": "CLOSED",
         "Sunday": "6:00 AM - 2:00 PM",
-        "phone": "+17183075755"
+        "phone": "+16464534889"
     },
     "JAMAICA": {
         "display_name": "JAMAICA QUEENS",
@@ -21,7 +21,7 @@
         "Friday": "6:00 AM - 2:00 PM",
         "Saturday": "CLOSED",
         "Sunday": "6:00 AM - 2:00 PM",
-        "phone": "+17183075722"
+        "phone": "+16464534868"
     },
     "FLATBUSH": {
         "display_name": "FLATBUSH BROOKLYN",
@@ -33,7 +33,7 @@
         "Friday": "CLOSED",
         "Saturday": "CLOSED",
         "Sunday": "6:00 AM - 2:00 PM",
-        "phone": "+17182158652"
+        "phone": "+16464534709"
     },
     "PARKCHESTER": {
         "display_name": "PARKCHESTER BRONX",
@@ -45,7 +45,7 @@
         "Friday": "6:00 AM - 2:00 PM",
         "Saturday": "CLOSED",
         "Sunday": "6:00 AM - 2:00 PM",
-        "phone": "+17182158688"
+        "phone": "+16464534771"
     },
     "MELROSE": {
         "display_name": "MELROSE BRONX",
@@ -57,7 +57,7 @@
         "Friday": "6:00 AM - 3:00 PM",
         "Saturday": "CLOSED",
         "Sunday": "6:00 AM - 7:30 PM",
-        "phone": "+17185999030"
+        "phone": "+16464534934"
     },
     "CLINTON_HILL": {
         "display_name": "CLINTON HILL BROOKLYN",
@@ -69,7 +69,7 @@
         "Friday": "6:00 AM - 3:00 PM",
         "Saturday": "CLOSED",
         "Sunday": "6:00 AM - 7:30 PM",
-        "phone": "+17188996900"
+        "phone": "+16464534935"
     },
     "BROWNSVILLE": {
         "display_name": "BROWNSVILLE BROOKLYN",
@@ -81,7 +81,7 @@
         "Friday": "6:00 AM - 2:00 PM",
         "Saturday": "CLOSED",
         "Sunday": "6:00 AM - 2:00 PM",
-        "phone": "+17182158655"
+        "phone": "+16464534760"
     },
     "FT_PIERCE": {
         "display_name": "FORT PIERCE FLORIDA",
@@ -93,7 +93,7 @@
         "Friday": "6:00 AM - 4:00 PM",
         "Saturday": "CLOSED",
         "Sunday": "6:00 AM - 7:00 PM",
-        "phone": "+17723626200"
+        "phone": "+17722521927"
     },
     "FORDHAM": {
         "display_name": "FORDHAM BRONX (Limited Hours)",
