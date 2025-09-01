@@ -38,13 +38,13 @@
     "PARKCHESTER": {
         "display_name": "PARKCHESTER BRONX",
         "Address": "2028 White Plains Rd, Bronx, NY 10462",
-        "Monday": "6:00 AM - 2:00 PM",
-        "Tuesday": "6:00 AM - 2:00 PM",
-        "Wednesday": "6:00 AM - 2:00 PM",
-        "Thursday": "6:00 AM - 2:00 PM",
-        "Friday": "6:00 AM - 2:00 PM",
+        "Monday": "6:00 AM - 7:30 PM",
+        "Tuesday": "6:00 AM - 7:30 PM",
+        "Wednesday": "6:00 AM - 7:30 PM",
+        "Thursday": "6:00 AM - 7:30 PM",
+        "Friday": "CLOSED",
         "Saturday": "CLOSED",
-        "Sunday": "6:00 AM - 2:00 PM",
+        "Sunday": "6:00 AM - 7:30 PM",
         "phone": "+16464534771"
     },
     "MELROSE": {
