@@ -14,13 +14,13 @@
     "JAMAICA": {
         "display_name": "JAMAICA QUEENS",
         "Address": "162-11 Jamaica Ave, Jamaica, NY 11432",
-        "Monday": "6:00 AM - 2:00 PM",
-        "Tuesday": "6:00 AM - 2:00 PM",
-        "Wednesday": "6:00 AM - 2:00 PM",
-        "Thursday": "6:00 AM - 2:00 PM",
-        "Friday": "6:00 AM - 2:00 PM",
+        "Monday": "6:00 AM - 7:30 PM",
+        "Tuesday": "6:00 AM - 7:30 PM",
+        "Wednesday": "6:00 AM - 7:30 PM",
+        "Thursday": "6:00 AM - 7:30 PM",
+        "Friday": "CLOSED",
         "Saturday": "CLOSED",
-        "Sunday": "6:00 AM - 2:00 PM",
+        "Sunday": "6:00 AM - 7:30 PM",
         "phone": "+16464534868"
     },
     "FLATBUSH": {
@@ -74,13 +74,13 @@
     "BROWNSVILLE": {
         "display_name": "BROWNSVILLE BROOKLYN",
         "Address": "1539 Pitkin Ave, Brooklyn, NY 11212",
-        "Monday": "6:00 AM - 2:00 PM",
-        "Tuesday": "6:00 AM - 2:00 PM",
-        "Wednesday": "6:00 AM - 2:00 PM",
-        "Thursday": "6:00 AM - 2:00 PM",
-        "Friday": "6:00 AM - 2:00 PM",
+        "Monday": "6:00 AM - 7:30 PM",
+        "Tuesday": "6:00 AM - 7:30 PM",
+        "Wednesday": "6:00 AM - 7:30 PM",
+        "Thursday": "6:00 AM - 7:30 PM",
+        "Friday": "CLOSED",
         "Saturday": "CLOSED",
-        "Sunday": "6:00 AM - 2:00 PM",
+        "Sunday": "6:00 AM - 7:30 PM",
         "phone": "+16464534760"
     },
     "FT_PIERCE": {
