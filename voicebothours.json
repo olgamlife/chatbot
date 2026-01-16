@@ -1,0 +1,122 @@
+{
+    "HOWARD_BEACH": {
+        "display_name": "HOWARD BEACH QUEENS",
+        "Address": "78-15 Linden Blvd, Queens, NY 11414",
+        "Monday": "6:00 AM - 2:00 PM",
+        "Tuesday": "6:00 AM - 2:00 PM",
+        "Wednesday": "6:00 AM - 2:00 PM",
+        "Thursday": "6:00 AM - 2:00 PM",
+        "Friday": "6:00 AM - 2:00 PM",
+        "Saturday": "CLOSED",
+        "Sunday": "6:00 AM - 2:00 PM",
+        "phone": "+16464534889"
+    },
+    "JAMAICA": {
+        "display_name": "JAMAICA QUEENS",
+        "Address": "162-11 Jamaica Ave, Jamaica, NY 11432",
+        "Monday": "6:00 AM - 7:30 PM",
+        "Tuesday": "6:00 AM - 7:30 PM",
+        "Wednesday": "6:00 AM - 7:30 PM",
+        "Thursday": "6:00 AM - 7:30 PM",
+        "Friday": "CLOSED",
+        "Saturday": "CLOSED",
+        "Sunday": "6:00 AM - 7:30 PM",
+        "phone": "+16464534868"
+    },
+    "FLATBUSH": {
+        "display_name": "FLATBUSH BROOKLYN",
+        "Address": "1584 Flatbush Ave Brooklyn, NY 11210",
+        "Monday": "6:00 AM - 2:00 PM",
+        "Tuesday": "6:00 AM - 2:00 PM",
+        "Wednesday": "6:00 AM - 2:00 PM",
+        "Thursday": "6:00 AM - 2:00 PM",
+        "Friday": "CLOSED",
+        "Saturday": "CLOSED",
+        "Sunday": "6:00 AM - 2:00 PM",
+        "phone": "+16464534709"
+    },
+    "PARKCHESTER": {
+        "display_name": "PARKCHESTER BRONX",
+        "Address": "2028 White Plains Rd, Bronx, NY 10462",
+        "Monday": "6:00 AM - 7:30 PM",
+        "Tuesday": "6:00 AM - 7:30 PM",
+        "Wednesday": "6:00 AM - 7:30 PM",
+        "Thursday": "6:00 AM - 7:30 PM",
+        "Friday": "CLOSED",
+        "Saturday": "CLOSED",
+        "Sunday": "6:00 AM - 7:30 PM",
+        "phone": "+16464534771"
+    },
+    "MELROSE": {
+        "display_name": "MELROSE BRONX",
+        "Address": "2914 3rd Ave, Bronx, NY 10455",
+        "Monday": "6:00 AM - 7:30 PM",
+        "Tuesday": "6:00 AM - 7:30 PM",
+        "Wednesday": "6:00 AM - 7:30 PM",
+        "Thursday": "6:00 AM - 7:30 PM",
+        "Friday": "6:00 AM - 3:00 PM",
+        "Saturday": "CLOSED",
+        "Sunday": "6:00 AM - 7:30 PM",
+        "phone": "+16464534934"
+    },
+    "CLINTON_HILL": {
+        "display_name": "CLINTON HILL BROOKLYN",
+        "Address": "1104 Fulton Street, Brooklyn, NY 11238",
+        "Monday": "6:00 AM - 7:30 PM",
+        "Tuesday": "6:00 AM - 7:30 PM",
+        "Wednesday": "6:00 AM - 7:30 PM",
+        "Thursday": "6:00 AM - 7:30 PM",
+        "Friday": "6:00 AM - 3:00 PM",
+        "Saturday": "CLOSED",
+        "Sunday": "6:00 AM - 7:30 PM",
+        "phone": "+16464534935"
+    },
+    "BROWNSVILLE": {
+        "display_name": "BROWNSVILLE BROOKLYN",
+        "Address": "1539 Pitkin Ave, Brooklyn, NY 11212",
+        "Monday": "6:00 AM - 7:30 PM",
+        "Tuesday": "6:00 AM - 7:30 PM",
+        "Wednesday": "6:00 AM - 7:30 PM",
+        "Thursday": "6:00 AM - 7:30 PM",
+        "Friday": "CLOSED",
+        "Saturday": "CLOSED",
+        "Sunday": "6:00 AM - 7:30 PM",
+        "phone": "+16464534760"
+    },
+    "FT_PIERCE": {
+        "display_name": "FORT PIERCE FLORIDA",
+        "Address": "5216 Okeechobee Rd, Fort Pierce, FL 34947",
+        "Monday": "6:00 AM - 7:00 PM",
+        "Tuesday": "6:00 AM - 7:00 PM",
+        "Wednesday": "6:00 AM - 7:00 PM",
+        "Thursday": "6:00 AM - 7:00 PM",
+        "Friday": "6:00 AM - 4:00 PM",
+        "Saturday": "CLOSED",
+        "Sunday": "6:00 AM - 7:00 PM",
+        "phone": "+17722521927"
+    },
+    "FORDHAM": {
+        "display_name": "FORDHAM BRONX (Limited Hours)",
+        "Address": "2510 Grand Concourse Bronx NY 10458",
+        "Monday": "CLOSED",
+        "Tuesday": "CLOSED",
+        "Wednesday": "CLOSED",
+        "Thursday": "CLOSED",
+        "Friday": "CLOSED",
+        "Saturday": "CLOSED",
+        "Sunday": "CLOSED",
+        "phone": "+17182158687"
+    },
+    "EASTHARLEM": {
+        "display_name": "EAST HARLEM (Limited hours)",
+        "Address": "127 E 125th St New York, NY 10035",
+        "Monday": "CLOSED",
+        "Tuesday": "CLOSED",
+        "Wednesday": "CLOSED",
+        "Thursday": "CLOSED",
+        "Friday": "CLOSED",
+        "Saturday": "CLOSED",
+        "Sunday": "CLOSED",
+        "phone": "+17182158659"
+    }
+}
