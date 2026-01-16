@@ -2,13 +2,13 @@
     "HOWARD_BEACH": {
         "display_name": "HOWARD BEACH QUEENS",
         "Address": "78-15 Linden Blvd, Queens, NY 11414",
-        "Monday": "6:00 AM - 2:00 PM",
-        "Tuesday": "6:00 AM - 2:00 PM",
-        "Wednesday": "6:00 AM - 2:00 PM",
-        "Thursday": "6:00 AM - 2:00 PM",
-        "Friday": "6:00 AM - 2:00 PM",
+        "Monday": "6:00 AM - 7:30 PM",
+        "Tuesday": "6:00 AM - 7:30 PM",
+        "Wednesday": "6:00 AM - 7:30 PM",
+        "Thursday": "6:00 AM - 7:30 PM",
+        "Friday": "CLOSED",
         "Saturday": "CLOSED",
-        "Sunday": "6:00 AM - 2:00 PM",
+        "Sunday": "6:00 AM - 7:30 PM",
         "phone": "+17183075755"
     },
     "JAMAICA": {
