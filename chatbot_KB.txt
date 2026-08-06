@@ -278,7 +278,7 @@ Balance checking options:
 
 Card replacement:
 - Available at any Olgam Life center.
-- Replacement fee: $6.50
+- Replacement fee: $6.95
 - Required if card is lost or stolen
 
 Card issues:
