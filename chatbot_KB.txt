@@ -374,7 +374,7 @@ To receive your $50 referral bonus, your friend must:
 3. Documentation review required only once for each new address or ID
 4. If already registered at another Olgam center, no need to bring documents again
    - Donor management system is fully automated and cloud-based
-   - Returning donors do not need to complete questionnaire each time, only a quick health screening.
+   - Returning donors do not need to repeat the full first-visit process, but they receive a quick health screening at every visit to confirm they are healthy and eligible to donate that day.
 
 ### Wait Times
 - Vary by week and location
